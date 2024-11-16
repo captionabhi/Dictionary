@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="part_of_speech_textview" type="id" />
+    <item name="definitions_textview" type="id" />
+    <item name="synonyms_title_textview" type="id" />
+    <item name="synonyms_textview" type="id" />
+    <item name="antonyms_title_textview" type="id" />
+    <item name="antonyms_textview" type="id" />
+</resources>
